@@ -95,6 +95,18 @@ driver.manage().window().maximize();
 	12)Popups-----handle the popups
 
 
+1) Selenium.dev
+	2)Click on downloads
+	3)Click on latest stable version number
+	4)jar file 
+1) Selenium.dev
+	2)Click on downloads
+	3)Click on latest stable version number
+	4)jar file 
+1) Selenium.dev
+	2)Click on downloads
+	3)Click on latest stable version number
+	4)jar file 
 
 	1) Selenium.dev
 	2)Click on downloads
