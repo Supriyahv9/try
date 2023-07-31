@@ -69,6 +69,8 @@ driver.manage().window().maximize();
 		*What is Automation testing ?
 		*Which is the Automation tool ?
 		*What is Selenium ?
+		*What is Selenium ?
+		*What is Selenium ?
 		*when We go For Automation ?
 		*Advantages of AT
 		*Disadvantage Of AT
