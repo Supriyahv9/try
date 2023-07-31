@@ -1,0 +1,29 @@
+Downloading :
+1)Selenium tool
+2)Browser-----Chrome
+------------------------------------------------
+1)Eclipse
+2)Create java Project-----Basic Selenium
+File--New---Java Project
+Project Name(Selenium)---JRE--Select(JavaSE-1.8)---Click on Finesh
+3)Create folder(jar)
+Select Project---Right click--New--Folder---Enter folder name(jar)--Finesh
+--Copy past ----downloaded Selenium tool(jar).
+4)Right click on selenium server 4.10.0----Build Path---click on add to build path
+5)Create folder(Drivers)
+Select Project---Right click--New--Folder---Enter folder name(Drivers)--Finesh
+6)Inside Drivers folder--Chromedriver.exe
+Select Chromedriverwin32.zip--right click--Extract file--ok
+Copy paste Chromedriver.exe inside Drivers
+7)Create a Package(Basic)--Create a Class
+
+1)jar folder---selenium server 4.10.0 jar
+2)Drivers--Chromedriver.exe
+3)Project---Referenced libraries
+
+
+
+
+
+
+
