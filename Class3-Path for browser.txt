@@ -49,7 +49,21 @@ KeyPoints:
 
 System.setProperty(String key,"./Drivers/Chromedriver.exe")
 
-
+driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	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
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	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driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	driver.manage().window().maximize();
+	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
 
 
 
